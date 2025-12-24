@@ -121,7 +121,7 @@ Mesh networking is avoided due to higher power consumption and added complexity.
 ## Folder Structure
 
 ```text
-Smart-Waste-Bin-Network---Tanisha-K/
+WM-Tanisha_K-SIET/
 ├── Software/
 │   ├── Codes/
 │   └── Software_Architecture/
